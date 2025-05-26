@@ -1,3 +1,5 @@
+// Switch into a NavBar
+
 function Header() {
   return (
     <header>

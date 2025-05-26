@@ -1,3 +1,5 @@
+// Find the proper name + add more mehen
+
 function Footer() {
   return (
     <footer>
